@@ -58,22 +58,5 @@ Please find below a screenshot of the completed project:
 
 <img src="./assets/IMG/project.png">
 
-## Links to Repos and Deployed Projects
-
-Link to the Deployed Project
-
-https://ucstuart.github.io/UoB-PlanIT/
-
-Links to the REPOS
-
-This REPO is the Original REPO which contains all of the commits, issues, and the project management.
-
-https://github.com/ucstuart/Uob-Group1-Project 
-
-This REPO is the final repo from where the project is deployed, and it contains the README.MD and PowerPoint Presentation
-
-https://github.com/ucstuart/UoB-PlanIT
-
-
 ## Copyright
 © 2023 PlanIT. All rights reserved.
