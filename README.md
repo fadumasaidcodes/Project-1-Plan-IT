@@ -1,4 +1,6 @@
 # Plan IT
+To view the website, click [here](https://fadumasaidcodes.github.io/Project-1-Plan-IT/).
+
 PlanIT is a user-friendly web application designed to help you manage your busy schedule efficiently. It offers five day planner, weather forecasts, historical events, quotes of the day, and a to-do list, all in one place.
 
 ## User Stories
