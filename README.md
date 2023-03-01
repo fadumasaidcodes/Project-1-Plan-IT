@@ -35,10 +35,10 @@ You can access PlanIT on any modern web browser. Once you open the app, you will
 ## Contributors
 Plan IT was developed by the following team members:
 
-* Stuart
-* Arshad 
-* Ebhetoa
 * Faduma
+* Ebhetoa
+* Arshad 
+* Stuart
 
 ## Acknowledgments
 We would like to thank the following resources for their contribution to the development of PlanIT:
