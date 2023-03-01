@@ -52,7 +52,7 @@ We would like to thank the following resources for their contribution to the dev
 
 We have attached a PDF of our presentation here:
 
-https://ucstuart.github.io/UoB-PlanIT/assets/PDF/presentation.pdf 
+
 
 ## Screenshots
 
